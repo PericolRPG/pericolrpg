@@ -9,7 +9,7 @@
 <div align="center">
     <a href="https://discord.gg/easycode" alt="Discord Server"><img src="https://shields.io/badge/Discord-black?style=for-the-badge&logo=discord"></a>
     <a href="https://instagram.com/iampericol.official" alt="Instagram"><img src="https://shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
-    <a href="https://easy-code.ro" alt=" Website"><img src="https://shields.io/badge/Personal Website-black?&style=for-the-badge"></a>
+    <a href="https://easy-code.ro" alt=" Website"><img src="https://shields.io/badge/ Website-black?&style=for-the-badge"></a>
 </div>
 
 <!--

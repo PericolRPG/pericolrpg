@@ -28,20 +28,8 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
    <a href="https://www.facebook.com/leonardssh22" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center">
    </a>
-   <a href="https://www.youtube.com/LeonardSSH" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">
-   </a>
-   <a href="https://www.twitch.tv/leonardssh22" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center">
-   </a>
-   <a href="https://steamcommunity.com/id/leonardssh/" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">
-   </a>
-   <a href="https://open.spotify.com/user/dwte9evqj8dph3ke924c7olpt" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">
-   </a>
-   <a href="https://wakatime.com/@leonard" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32" align="center">
+   <a href="https://www.youtube.com/PericolRPG" target="_blank" rel="nofollow">
+      <img src="https://github.com/PericolRPG/pericolrpg/youtube.svg" alt="YouTube" width="32" align="center">
    </a>
 </p>
 

@@ -46,7 +46,6 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Tools** - Github, VS Code, NeoVim, Figma
    * **Other** - Linux
 
---->
  ### :envelope: Contacts
 
 I am in many places online, but here are where I am most active. Feel free to contact me.

@@ -1,20 +1,16 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
 
 <p align="center">
-   <a href="https://www.instagram.com/iampericol.official/" target="_blank">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
-   </a>
-   <a href="https://www.youtube.com/PericolRPG" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">
-   </a>
-</p>
-<p align="center">
    <a href="https://discord.com/users/481701586360598538" target="_blank" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/481701586360598538?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
    </a>
-   <center>
-   <h1></> Developer </h1></center>
+
 </p>
+<div align="center">
+    <a href="https://discord.gg/easycode" alt="Discord Server"><img src="https://shields.io/badge/Discord-black?style=for-the-badge&logo=discord"></a>
+    <a href="https://instagram.com/iampericol.official" alt="Instagram"><img src="https://shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
+    <a href="https://easy-code.ro" alt=" Website"><img src="https://shields.io/badge/Personal Website-black?&style=for-the-badge"></a>
+</div>
 
 <!--
 ### 👨‍💻 What I do
@@ -55,7 +51,7 @@ These are my favorite tech stack for building all kinds of stuff.
 
 I am in many places online, but here are where I am most active. Feel free to contact me.
 
-* [Website](https://easy-code.ro)  | [Instagram](https://www.instagram.com/iampericol.official/)
+* [Website](https://easy-code.ro)  | * [Instagram](https://www.instagram.com/iampericol.official/)
 
 
 <!--END_SECTION:links-->

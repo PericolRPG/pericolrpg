@@ -8,10 +8,9 @@
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">
    </a>
 </p>
-
 <p align="center">
-   <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+   <a href="https://discord.com/users/481701586360598538" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/481701586360598538?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
    </a>
 </p>
 
@@ -54,7 +53,7 @@ These are my favorite tech stack for building all kinds of stuff.
 
 I am in many places online, but here are where I am most active. Feel free to contact me.
 
-* [Website](https://easy-code.ro) | | [Instagram](https://www.instagram.com/iampericol.official/)
+* [Website](https://easy-code.ro)  | [Instagram](https://www.instagram.com/iampericol.official/)
 
 
 <!--END_SECTION:links-->

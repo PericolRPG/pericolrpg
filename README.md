@@ -12,7 +12,6 @@
     <a href="https://easy-code.ro" alt=" Website"><img src="https://shields.io/badge/ Website-black?&style=for-the-badge"></a>
 </div>
 
-<div align="center">
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -23,8 +22,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-</div>
+![Pawn](https://img.shields.io/badge/-PAWN%20-brightgreen)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-AA3333)&nbsp;
 
 <!--
 ### 👨‍💻 What I do

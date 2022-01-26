@@ -26,14 +26,13 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!--
+
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * [Kill-Life] - a romanian GTA:V server powered by [RAGE:MP]
-      * [Skippy] - a discord bot that aims to combine the features of all popular bots into one bot. So, stay close!
-      * [RAGE:MP Typescript Definitions] - typescript definitions for [RAGE:MP]
-      
+      * [BPlay Romania] - a romanian GTA:V server powered by [FIVEM]
+      * [Easy-Code Romania] -  a romanian Forum resurse powered by [WebSite]
+   <!--   
    * ✨ **I'm maintaining:**
       * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
 

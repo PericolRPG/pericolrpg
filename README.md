@@ -27,12 +27,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<!--
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
       * [BPlay Romania] - a romanian GTA:V server powered by [FIVEM]
       * [Easy-Code Romania] -  a romanian Forum resurse powered by [WebSite]
-   <!--   
    * ✨ **I'm maintaining:**
       * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
 

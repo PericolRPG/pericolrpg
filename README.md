@@ -16,8 +16,8 @@
 
 </p>
 <br>
-<h1>Powered By <a href="https://easy-code.ro/" style="color: blue;">Easy-Code Romania</a></h1>
-<h2>Developed By <a href="https://youtube.com/PericolRPG">PericolRPG </a> <a href="https://youtube.com/PericolRPGDev">PericolRPG Dev<h2>
+Powered By <a href="https://easy-code.ro/" style="color: blue;">Easy-Code Romania</a><br>
+Developed By <a href="https://youtube.com/PericolRPG">PericolRPG </a> & <a href="https://youtube.com/PericolRPGDev">PericolRPG Dev</a>
 <br>
 <div align="center">
     <a href="https://easy-code.ro/discord" alt="Discord Server"><img src="https://shields.io/badge/Discord-black?style=for-the-badge&logo=discord"></a>

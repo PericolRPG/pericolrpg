@@ -16,9 +16,10 @@
 
 </p>
 <br>
+<center>
 Powered By <a href="https://easy-code.ro/" style="color: blue;">Easy-Code Romania</a><br>
 Developed By <a href="https://youtube.com/PericolRPG">PericolRPG </a> & <a href="https://youtube.com/PericolRPGDev">PericolRPG Dev</a>
-<br>
+</center><br>
 <div align="center">
     <a href="https://easy-code.ro/discord" alt="Discord Server"><img src="https://shields.io/badge/Discord-black?style=for-the-badge&logo=discord"></a>
     <a href="https://instagram.com/iampericol.official" alt="Instagram"><img src="https://shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>

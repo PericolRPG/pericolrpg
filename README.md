@@ -1,5 +1,13 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
 
+### 👨‍💻 What I do
+   - 👋 Hi, I’m @PericolRPG
+   - 👀 I’m interested in developing FiveM/RageMP
+   - 🌱 I’m currently learning 
+   - 💞️ I’m looking to collaborate on Easy-Code Romania (www.easy-code.ro)
+   - 📫 How to reach me: You can reach me on discord. My discord user it's: PericolRPG#1337
+   * 🌍 **Open Source Projects:**
+      - Panel BLUEBUGGED: [panelbugged]
 <p align="center">
    <a href="https://discord.com/users/481701586360598538" target="_blank" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/481701586360598538?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">

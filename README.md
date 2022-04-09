@@ -7,6 +7,7 @@
    - 📫 How to reach me: You can reach me on discord. My discord user it's: PericolRPG#1337
    - 🌍 **Open Source Projects:**
       - Panel BLUEBUGGED: [panelbugged]
+      - Panel Crowland/Eclisped: [moon/phoenix]
 
 <br>
 <p align="center">

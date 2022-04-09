@@ -6,8 +6,8 @@
    - 💞️ I’m looking to collaborate on Easy-Code Romania (www.easy-code.ro)
    - 📫 How to reach me: You can reach me on discord. My discord user it's: PericolRPG#1337
    - 🌍 **Open Source Projects:**
-      - Panel BLUEBUGGED: ![panelbugged](https://easy-code.ro/index.php?/topic/179-panel-bluebugged/)
-      - Panel Crowland/Eclisped: ![moon/phoenix](https://easy-code.ro/index.php?/topic/67-panel-phoenixmoon/)
+      - Panel BLUEBUGGED: ![panelbugged](https://easy-code.ro/index.php?/topic/179-panel-bluebugged/)&nbsp;
+      - Panel Crowland/Eclisped: ![moon/phoenix](https://easy-code.ro/index.php?/topic/67-panel-phoenixmoon/)&nbsp;
 
 <br>
 <p align="center">

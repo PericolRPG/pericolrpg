@@ -2,7 +2,7 @@
 
 ###
    - 👋 Hi, I’m @PericolRPG
-   - 👀 I’m interested in developing FiveM/RageMP/Boti Discord
+   - 👀 I’m interested in developing FiveM/RageMP
    - 💞️ I’m looking to collaborate on Easy-Code Romania (www.easy-code.ro)
    - 📫 How to reach me: You can reach me on discord. My discord user it's: PericolRPG#0001
    - 🌍 **Open Source Projects:**

@@ -3,39 +3,20 @@
 ###
    - 👋 Hi, I’m @PericolRPG
    - 👀 I’m interested in developing FiveM/RageMP
-   - 💞️ I’m looking to collaborate on Easy-Code Romania (www.easy-code.ro)
+   - 💞️ I’m looking to collaborate on Leaks Romania (www.leaks.ro) (#NR 1)
    - 📫 How to reach me: You can reach me on discord. My discord user it's: PericolRPG#0001
    - 🌍 **Open Source Projects:**
-      - Panel BLUEBUGGED: [panelbugged](https://easy-code.ro/index.php?/topic/179-panel-bluebugged/)&nbsp;
+      - Panel BLUEBUGGED: [blue/purple](https://github.com/PericolRPG/panelbugged)&nbsp;
       - Panel Crowland/Eclisped: [moon/phoenix](https://easy-code.ro/index.php?/topic/67-panel-phoenixmoon/)&nbsp;
 
 <br>
-<p align="center">
-   <a href="https://discord.com/users/481701586360598538" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/481701586360598538?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
-   </a>
-   <br>
-</p>
 <br>
 <div align="center">
     <a href="https://easy-code.ro/discord" alt="Discord Server"><img src="https://shields.io/badge/Discord-black?style=for-the-badge&logo=discord"></a>
     <a href="https://instagram.com/iampericol.official" alt="Instagram"><img src="https://shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
-    <a href="https://easy-code.ro" alt=" Website"><img src="https://shields.io/badge/Website-black?&style=for-the-badge"></a>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=007ACC)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=cc3300)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cpp&logoColor=aacc33)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=aacc33)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <!--
 ### 👨‍💻 What I do

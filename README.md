@@ -35,6 +35,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
+### 🔌 Links
+- 💬 <a href="https://discord.com/users/481701586360598538">Discord</a>
+- 💬 <a href="https://www.leaks.ro/profile/14122-pericolrpg/">PM FORUM</a>
+
 <!--
 ### 👨‍💻 What I do
       

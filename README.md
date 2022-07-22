@@ -6,9 +6,8 @@
    - 💞️ I’m looking to collaborate on Leaks Romania (www.leaks.ro) (#NR 1)
    - 📫 How to reach me: You can reach me on discord. My discord user it's: PericolRPG#0001
    - 🌍 **Open Source Projects:**
-      - Panel BLUEBUGGED: [blue/purple](https://github.com/PericolRPG/panelbugged)&nbsp;
-      - Panel Crowland/Eclisped: [moon/phoenix](https://easy-code.ro/index.php?/topic/67-panel-phoenixmoon/)&nbsp;
-
+      - Panel BlueBugged(SAMP): [blue/purple](https://github.com/PericolRPG/panelbugged)&nbsp;
+      
 <br>
 <br>
 <p align="center">

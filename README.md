@@ -19,10 +19,7 @@
     <a href="https://easy-code.ro/discord" alt="Discord Server"><img src="https://shields.io/badge/Discord-black?style=for-the-badge&logo=discord"></a>
     <a href="https://instagram.com/iampericol.official" alt="Instagram"><img src="https://shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
 </div>
-## 💻 What I'm working on
-   * **[RYSE Multiplayer]** - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="24" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="18" align="center">][RAGEMP].
-   * **[ryse.mp](https://ryse.mp)** - Frontend and backend for https://ryse.mp
-   * **[valet](https://leonard.sh)** (in standby at the moment) - A multi purpose, open source [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">][`discord`] bot. You can find all related repos [`@TheValetBot`]. 
+
 ### 🔌 Links
 - 💬 <a href="https://discord.com/users/481701586360598538">Discord</a>
 - 💬 <a href="https://www.leaks.ro/profile/14122-pericolrpg/">PM FORUM</a>
